@@ -1,0 +1,1 @@
+Clone from github, open file in terminal or using VSCode using new terminal to start local node server. Open localhost on browser IE: Go live in vs code. Type in suggestions/name/etc and it will appear on the other  side of the page as a card and be added as additional information in a JSON format.
